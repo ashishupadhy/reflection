@@ -1,6 +1,6 @@
 # REFLECTION
 
-**This is a reflection repository where you can see the answer of git tutorials. **
+**This is a reflection repository where you can see the answer of git tutorials.**
 
 ## FILES
 
