@@ -8,4 +8,4 @@
 
 ## INSTALLATION
 
-**Insatll git and github to complete whole the practical **
+**Insatll git and github to complete whole the practical**
